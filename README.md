@@ -1,0 +1,2 @@
+# majesticspire
+Static site: majesticspire
